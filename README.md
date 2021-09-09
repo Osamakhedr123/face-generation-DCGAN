@@ -1,4 +1,4 @@
-# Face Generation using DCGAN
+# Face Generation using a DCGAN
 
 In this project, I'll define and train a DCGAN (Deep Covolutional Generative Adversarial Network) on a dataset of faces. My goal is to get a generator network to generate *new* images of faces that look as realistic as possible!
 
